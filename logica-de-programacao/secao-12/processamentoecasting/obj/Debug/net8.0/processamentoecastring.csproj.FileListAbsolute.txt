@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\Pastas\curso\logica-de-programacao\secao-12\processamentoecasting\bin\Debug\net8.0\processamentoecastring.exe
+C:\Users\Usuario\Desktop\Pastas\curso\logica-de-programacao\secao-12\processamentoecasting\bin\Debug\net8.0\processamentoecastring.deps.json
+C:\Users\Usuario\Desktop\Pastas\curso\logica-de-programacao\secao-12\processamentoecasting\bin\Debug\net8.0\processamentoecastring.runtimeconfig.json
+C:\Users\Usuario\Desktop\Pastas\curso\logica-de-programacao\secao-12\processamentoecasting\bin\Debug\net8.0\processamentoecastring.dll
+C:\Users\Usuario\Desktop\Pastas\curso\logica-de-programacao\secao-12\processamentoecasting\bin\Debug\net8.0\processamentoecastring.pdb
+C:\Users\Usuario\Desktop\Pastas\curso\logica-de-programacao\secao-12\processamentoecasting\obj\Debug\net8.0\processamentoecastring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Pastas\curso\logica-de-programacao\secao-12\processamentoecasting\obj\Debug\net8.0\processamentoecastring.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Pastas\curso\logica-de-programacao\secao-12\processamentoecasting\obj\Debug\net8.0\processamentoecastring.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Pastas\curso\logica-de-programacao\secao-12\processamentoecasting\obj\Debug\net8.0\processamentoecastring.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Pastas\curso\logica-de-programacao\secao-12\processamentoecasting\obj\Debug\net8.0\processamentoecastring.dll
+C:\Users\Usuario\Desktop\Pastas\curso\logica-de-programacao\secao-12\processamentoecasting\obj\Debug\net8.0\refint\processamentoecastring.dll
+C:\Users\Usuario\Desktop\Pastas\curso\logica-de-programacao\secao-12\processamentoecasting\obj\Debug\net8.0\processamentoecastring.pdb
+C:\Users\Usuario\Desktop\Pastas\curso\logica-de-programacao\secao-12\processamentoecasting\obj\Debug\net8.0\processamentoecastring.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Pastas\curso\logica-de-programacao\secao-12\processamentoecasting\obj\Debug\net8.0\ref\processamentoecastring.dll

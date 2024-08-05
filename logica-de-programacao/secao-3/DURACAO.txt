@@ -1,0 +1,19 @@
+Algoritmo "duracao"
+
+Var
+   segundos, horas, minutos, resto : inteiro
+
+Inicio
+      escreva("Digite a duracao em segundos: ")
+      leia(segundos)
+
+      horas  <- segundos \ 3600
+      resto <- segundos mod 3600
+      minutos <- resto \ 60
+      segundos <- resto mod 60
+
+
+      escreval(horas,":",minutos,":",segundos)
+
+
+Fimalgoritmo

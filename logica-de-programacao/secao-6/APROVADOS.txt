@@ -1,0 +1,39 @@
+Algoritmo "aprovados"
+
+Var
+   n, i : inteiro
+
+   vetnome : vetor [0..9] de caractere
+   vetnota1 : vetor [0..9] de real
+   vetnota2 : vetor [0..9] de real
+   media : vetor [0..9] de real
+
+
+Inicio
+   escreva("Quanto numeros voce vai digitar? ")
+   leia(n)
+
+   para i de 0 ate n-1 faca
+      escreval("Digite nome, primeira e segunda nota do ", i+1, "o aluno: ")
+      escreva("Nome: ")
+      leia(vetnome[i])
+      leia(vetnota1[i])
+      leia(vetnota2[i])
+
+      media[i] <- (vetnota1[i] + vetnota2[i]) / 2
+
+   fimpara
+
+
+
+   escreval("Alunos aprovados: ")
+
+   para i de 0 ate n-1 faca
+      se media[i] >= 6 entao
+         escreval(vetnome[i])
+      fimse
+   fimpara
+
+
+
+Fimalgoritmo

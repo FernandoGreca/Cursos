@@ -1,0 +1,29 @@
+Algoritmo "temperatura"
+
+Var
+   escala : caractere
+   c, f, converter : real
+
+
+Inicio
+   escreva("Voce vai digitar a temperatura em qual escala (C/F)?")
+   leia(escala)
+
+   se (escala = "C") ou (escala = "c") entao
+      escreva("Digite a temperatura em Celsius:")
+      leia(c)
+
+      converter <- c*1.8 + 32
+
+      escreva("Temperatura equivalente em Fahrenheit: ", converter:5:2)
+   senao
+      escreva("Digite a temperatura em Fahrenheit:")
+      leia(f)
+
+      converter <- 5/9 *(f - 32)
+
+      escreva("Temperatura equivalente em Celsius: ", converter:5:2)
+   fimse
+
+
+Fimalgoritmo

@@ -1,0 +1,22 @@
+Algoritmo "sequenciaimpares"
+
+Var
+   x, i, um : inteiro
+
+
+Inicio
+
+   escreva("Digite o valor de X: ")
+   leia(x)
+   
+   um <- x - (x - 1)
+   
+   
+   para i de um ate x passo 2 faca
+        escreva(i)
+   fimpara
+
+
+
+
+Fimalgoritmo

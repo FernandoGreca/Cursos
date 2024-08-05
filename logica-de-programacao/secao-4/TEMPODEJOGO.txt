@@ -1,0 +1,23 @@
+Algoritmo "tempodejogo"
+
+Var
+   horai, horaf, duracao, maior, menor : inteiro
+
+
+Inicio
+   escreva("Hora inicial: ")
+   leia(horai)
+   escreva("Hora final: ")
+   leia(horaf)
+
+   se horai < horaf entao
+      duracao <- horaf - horai
+   senao
+      duracao <- (24 - horai) + horaf
+   fimse
+
+
+   escreva("O JOGO DUROU", duracao, " HORA(S)")
+
+
+Fimalgoritmo

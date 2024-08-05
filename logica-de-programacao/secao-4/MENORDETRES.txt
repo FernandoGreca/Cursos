@@ -1,0 +1,31 @@
+Algoritmo "menordetres"
+
+Var
+   n1, n2, n3, menor : inteiro
+
+
+Inicio
+   escreva("Primeiro valor:")
+   leia(n1)
+   escreva("Segundo valor:")
+   leia(n2)
+   escreva("Terceiro valor:")
+   leia(n3)
+
+   se n1 < n2 entao
+      menor <- n1
+   senao
+      menor <- n2
+      se menor > n3 entao
+         menor <- n3
+      fimse
+   fimse
+
+   escreval
+   escreva("MENOR = ", menor)
+
+
+
+
+
+Fimalgoritmo

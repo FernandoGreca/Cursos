@@ -1,0 +1,31 @@
+Algoritmo "divisao"
+
+Var
+   quantidade, i: inteiro
+   numerador, denominador, divisao : real
+
+
+
+Inicio
+
+   escreva("Quantos numeros voce vai querer digitar? ")
+   leia(quantidade)
+
+   para i de 1 até quantidade faca
+      escreva("Digite um numerador: ")
+      leia(numerador)
+      escreva("Digite um denominador: ")
+      leia(denominador)
+
+      se denominador = 0 entao
+         escreval("DIVISAO IMPOSSIVEL")
+      senao
+         divisao <- numerador  / denominador
+         escreval("DIVISAO = ", divisao)
+      fimse
+
+   fimpara
+
+
+
+Fimalgoritmo

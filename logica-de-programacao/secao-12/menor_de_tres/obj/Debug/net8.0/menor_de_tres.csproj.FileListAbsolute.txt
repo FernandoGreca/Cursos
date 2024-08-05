@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\Pastas\curso\logica-de-programacao\secao-12\menor_de_tres\bin\Debug\net8.0\menor_de_tres.exe
+C:\Users\Usuario\Desktop\Pastas\curso\logica-de-programacao\secao-12\menor_de_tres\bin\Debug\net8.0\menor_de_tres.deps.json
+C:\Users\Usuario\Desktop\Pastas\curso\logica-de-programacao\secao-12\menor_de_tres\bin\Debug\net8.0\menor_de_tres.runtimeconfig.json
+C:\Users\Usuario\Desktop\Pastas\curso\logica-de-programacao\secao-12\menor_de_tres\bin\Debug\net8.0\menor_de_tres.dll
+C:\Users\Usuario\Desktop\Pastas\curso\logica-de-programacao\secao-12\menor_de_tres\bin\Debug\net8.0\menor_de_tres.pdb
+C:\Users\Usuario\Desktop\Pastas\curso\logica-de-programacao\secao-12\menor_de_tres\obj\Debug\net8.0\menor_de_tres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Pastas\curso\logica-de-programacao\secao-12\menor_de_tres\obj\Debug\net8.0\menor_de_tres.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Pastas\curso\logica-de-programacao\secao-12\menor_de_tres\obj\Debug\net8.0\menor_de_tres.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Pastas\curso\logica-de-programacao\secao-12\menor_de_tres\obj\Debug\net8.0\menor_de_tres.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Pastas\curso\logica-de-programacao\secao-12\menor_de_tres\obj\Debug\net8.0\menor_de_tres.dll
+C:\Users\Usuario\Desktop\Pastas\curso\logica-de-programacao\secao-12\menor_de_tres\obj\Debug\net8.0\refint\menor_de_tres.dll
+C:\Users\Usuario\Desktop\Pastas\curso\logica-de-programacao\secao-12\menor_de_tres\obj\Debug\net8.0\menor_de_tres.pdb
+C:\Users\Usuario\Desktop\Pastas\curso\logica-de-programacao\secao-12\menor_de_tres\obj\Debug\net8.0\menor_de_tres.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Pastas\curso\logica-de-programacao\secao-12\menor_de_tres\obj\Debug\net8.0\ref\menor_de_tres.dll

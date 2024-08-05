@@ -1,0 +1,33 @@
+Algoritmo "trocoverificado"
+
+Var
+   x, soma, z, troco, completar : real
+   y : inteiro
+
+
+Inicio
+   escreva("Preco unitario do produto: ")
+   leia(x)
+   escreva("Quantidade comprada: ")
+   leia(y)
+   escreva("Dinheiro Recebido: ")
+   leia(z)
+
+
+   soma <- x * y
+
+
+   se soma <= z entao
+      troco <- z - soma
+      escreval("TROCO = ", troco:4:2)
+   senao
+      completar <- soma - z
+      escreval("DINHEIRO INSUFICIENTE. FALTAM ", completar:4:2, " REAIS")
+   fimse
+
+
+
+
+
+Fimalgoritmo
+fimse

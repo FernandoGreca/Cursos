@@ -1,0 +1,37 @@
+Algoritmo "somaimpares"
+
+Var
+   x, y, menor, maior, soma, i : inteiro
+
+
+Inicio
+   escreval("Digite dois numeros: ")
+   leia(x)
+   leia(y)
+
+   se y < x entao
+      menor <- y
+      maior <- x
+   senao
+      menor <- x
+      maior <- y
+   fimse
+
+   se menor mod 2 = 0 entao
+      menor <- menor + 1
+   senao
+      menor <- menor + 2
+   fimse
+
+   se maior mod 2 <> 0 entao
+      maior <- maior - 1
+   fimse
+
+
+   para i de menor ate maior passo 2 faca
+      soma <- soma + i
+   fimpara
+
+   escreva("SOMA DOS IMPARES = ", soma)
+
+Fimalgoritmo

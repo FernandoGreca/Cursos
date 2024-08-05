@@ -1,0 +1,55 @@
+Algoritmo "comerciante"
+
+Var
+   n, i, menor : inteiro
+
+   lucro, lucrot, lucro10, lucro20, lucro21 , totalc, totalv  : real
+
+   nome : vetor [0..9] de caractere
+   precoc : vetor [0..9] de inteiro
+   precov : vetor [0..9] de real
+
+
+Inicio
+   escreva("Quanto numeros voce vai digitar? ")
+   leia(n)
+
+   para i de 0 ate n-1 faca
+      escreval("Produto", i+1)
+      escreva("Nome: ")
+      leia(nome[i])
+      escreva("Preco de compra: ")
+      leia(precoc[i])
+      escreva("Preco de venda: ")
+      leia(precov[i])
+
+      lucro <- ((precov[i] - precoc[i]) / precoc[i]) * 100
+
+      se lucro < 10 entao
+         lucro10 <- lucro10 + 1
+      senao
+         se lucro <= 20 entao
+            lucro20 <- lucro20 + 1
+         senao
+            lucro21 <- lucro21 + 1
+         fimse
+      fimse
+
+      totalc <- totalc + precoc[i]
+
+      totalv <- totalv + precov[i]
+
+   fimpara
+
+   lucrot <- totalv - totalc
+   
+   escreval
+   escreval("RELATORIO")
+   escreval("Lucro abaixo de 10%: ", lucro10)
+   escreval("Lucro entre 10% e 20%: ", lucro20)
+   escreval("Lucro acima de 20%: ", lucro21)
+   escreval("Valor total de compra: ", totalc:3:2)
+   escreval("Valor total de venda: ", totalv:3:2)
+   escreval("Valor total de compra: ", lucrot:3:2)
+
+Fimalgoritmo

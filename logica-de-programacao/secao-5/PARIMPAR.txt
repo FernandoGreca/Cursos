@@ -1,0 +1,40 @@
+Algoritmo "parimpar"
+
+Var
+   quantidade, i, numero : inteiro
+
+
+
+Inicio
+
+   escreva("Quantos numeros voce vai querer digitar? ")
+   leia(quantidade)
+
+   para i de 1 até quantidade faca
+      escreval
+      escreva("Digite um numero: ")
+      leia(numero)
+
+      se (numero mod 2 = 0) e (numero > 0) entao
+         escreva("PAR POSITIVO")
+      senao
+         se (numero mod 2 <> 0) e (numero > 0) entao
+            escreva("IMPAR POSITIVO")
+         senao
+            se (numero mod 2 = 0) e (numero < 0) entao
+               escreva("PAR NEGATIVO")
+            senao
+               se (numero mod 2 <> 0) e (numero < 0) entao
+                  escreva("IMPAR NEGATIVO")
+               senao
+                  escreva("NULO")
+               fimse
+            fimse
+         fimse
+      fimse
+
+   fimpara
+
+
+
+Fimalgoritmo

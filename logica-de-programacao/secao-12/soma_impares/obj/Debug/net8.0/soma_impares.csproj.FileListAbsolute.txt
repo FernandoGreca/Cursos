@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\Pastas\curso\logica-de-programacao\secao-12\soma_impares\bin\Debug\net8.0\soma_impares.exe
+C:\Users\Usuario\Desktop\Pastas\curso\logica-de-programacao\secao-12\soma_impares\bin\Debug\net8.0\soma_impares.deps.json
+C:\Users\Usuario\Desktop\Pastas\curso\logica-de-programacao\secao-12\soma_impares\bin\Debug\net8.0\soma_impares.runtimeconfig.json
+C:\Users\Usuario\Desktop\Pastas\curso\logica-de-programacao\secao-12\soma_impares\bin\Debug\net8.0\soma_impares.dll
+C:\Users\Usuario\Desktop\Pastas\curso\logica-de-programacao\secao-12\soma_impares\bin\Debug\net8.0\soma_impares.pdb
+C:\Users\Usuario\Desktop\Pastas\curso\logica-de-programacao\secao-12\soma_impares\obj\Debug\net8.0\soma_impares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Pastas\curso\logica-de-programacao\secao-12\soma_impares\obj\Debug\net8.0\soma_impares.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Pastas\curso\logica-de-programacao\secao-12\soma_impares\obj\Debug\net8.0\soma_impares.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Pastas\curso\logica-de-programacao\secao-12\soma_impares\obj\Debug\net8.0\soma_impares.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Pastas\curso\logica-de-programacao\secao-12\soma_impares\obj\Debug\net8.0\soma_impares.dll
+C:\Users\Usuario\Desktop\Pastas\curso\logica-de-programacao\secao-12\soma_impares\obj\Debug\net8.0\refint\soma_impares.dll
+C:\Users\Usuario\Desktop\Pastas\curso\logica-de-programacao\secao-12\soma_impares\obj\Debug\net8.0\soma_impares.pdb
+C:\Users\Usuario\Desktop\Pastas\curso\logica-de-programacao\secao-12\soma_impares\obj\Debug\net8.0\soma_impares.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Pastas\curso\logica-de-programacao\secao-12\soma_impares\obj\Debug\net8.0\ref\soma_impares.dll

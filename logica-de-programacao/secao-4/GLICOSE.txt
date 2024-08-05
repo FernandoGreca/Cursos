@@ -1,0 +1,22 @@
+Algoritmo "glicose"
+
+Var
+   media : real
+
+
+Inicio
+   escreva("Digite a media da glicose: ")
+   leia(media)
+
+   se media <= 100 entao
+      escreva("Classificacao: normal")
+   senao
+      se media <= 140 entao
+         escreva("Classificacao: elevado")
+      senao
+         escreva("Classificacao: diabetes")
+      fimse
+   fimse
+
+
+Fimalgoritmo

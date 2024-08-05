@@ -1,0 +1,42 @@
+Algoritmo "experiencias"
+
+Var
+   quantidade, i, numero, qcobaia, total, coelho, sapo, rato : inteiro
+   tipocobaia : caractere
+
+Inicio
+   escreva("Quantos casos de teste serao digitador? ")
+   leia(quantidade)
+
+   para i de 1 até quantidade faca
+      escreva("Quantidade de cobaias: ")
+      leia(qcobaia)
+      escreva("Tipo de cobaia: ")
+      leia(tipocobaia)
+      
+      total <- total + qcobaia
+
+      se tipocobaia = "R" entao
+         rato <- rato + qcobaia
+      senao
+         se tipocobaia = "C" entao
+            coelho <- coelho + qcobaia
+         senao
+            se tipocobaia = "S" entao
+               sapo <- sapo + qcobaia
+            fimse
+         fimse
+      fimse
+
+   fimpara
+
+   escreval("RELATORIO FINAL")
+   escreval("Total: ", total)
+   escreval("Total de coelhos: ", coelho)
+   escreval("Total de ratos: ", rato)
+   escreval("Total de sapos: ", sapo)
+   escreval("Percentual de coelhos: ", (coelho / total * 100):4:2)
+   escreval("Percentual de ratos: ", (rato / total * 100):4:2)
+   escreval("Percentual de sapos: ", (sapo / total * 100):4:2)
+
+Fimalgoritmo

@@ -1,0 +1,40 @@
+Algoritmo "lanchonete"
+
+Var
+   quantidade, codigo : inteiro
+   valor : real
+
+
+Inicio
+   escreva("Codigo do produto comprado: ")
+   leia(codigo)
+   escreva("Quantidade comprada: ")
+   leia(quantidade)
+
+   se codigo = 1 entao
+      valor <- 5 * quantidade
+      escreva("Valor a pagar: R$", valor:5:2)
+   senao
+      se codigo = 2 entao
+         valor <- 3.5 * quantidade
+         escreva("Valor a pagar: R$", valor:5:2)
+      senao
+         se codigo = 3 entao
+            valor <- 4.8 * quantidade
+            escreva("Valor a pagar: R$", valor:5:2)
+         senao
+            se codigo = 4 entao
+               valor <- 8.9 * quantidade
+               escreva("Valor a pagar: R$", valor:5:2)
+            senao
+               se codigo = 5 entao
+                  valor <- 7.32 * quantidade
+                  escreva("Valor a pagar: R$", valor:5:2)
+               fimse
+            fimse
+         fimse
+      fimse
+   fimse
+
+
+Fimalgoritmo

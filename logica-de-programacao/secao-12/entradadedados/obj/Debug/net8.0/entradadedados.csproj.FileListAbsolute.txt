@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\Pastas\curso\logica-de-programacao\secao-12\entradadedados\bin\Debug\net8.0\entradadedados.exe
+C:\Users\Usuario\Desktop\Pastas\curso\logica-de-programacao\secao-12\entradadedados\bin\Debug\net8.0\entradadedados.deps.json
+C:\Users\Usuario\Desktop\Pastas\curso\logica-de-programacao\secao-12\entradadedados\bin\Debug\net8.0\entradadedados.runtimeconfig.json
+C:\Users\Usuario\Desktop\Pastas\curso\logica-de-programacao\secao-12\entradadedados\bin\Debug\net8.0\entradadedados.dll
+C:\Users\Usuario\Desktop\Pastas\curso\logica-de-programacao\secao-12\entradadedados\bin\Debug\net8.0\entradadedados.pdb
+C:\Users\Usuario\Desktop\Pastas\curso\logica-de-programacao\secao-12\entradadedados\obj\Debug\net8.0\entradadedados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Pastas\curso\logica-de-programacao\secao-12\entradadedados\obj\Debug\net8.0\entradadedados.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Pastas\curso\logica-de-programacao\secao-12\entradadedados\obj\Debug\net8.0\entradadedados.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Pastas\curso\logica-de-programacao\secao-12\entradadedados\obj\Debug\net8.0\entradadedados.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Pastas\curso\logica-de-programacao\secao-12\entradadedados\obj\Debug\net8.0\entradadedados.dll
+C:\Users\Usuario\Desktop\Pastas\curso\logica-de-programacao\secao-12\entradadedados\obj\Debug\net8.0\refint\entradadedados.dll
+C:\Users\Usuario\Desktop\Pastas\curso\logica-de-programacao\secao-12\entradadedados\obj\Debug\net8.0\entradadedados.pdb
+C:\Users\Usuario\Desktop\Pastas\curso\logica-de-programacao\secao-12\entradadedados\obj\Debug\net8.0\entradadedados.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Pastas\curso\logica-de-programacao\secao-12\entradadedados\obj\Debug\net8.0\ref\entradadedados.dll

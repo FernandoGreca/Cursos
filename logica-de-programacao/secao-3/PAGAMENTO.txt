@@ -1,0 +1,24 @@
+Algoritmo "pagamento"
+
+Var
+   soma, valorh, horast : real
+   nome : caractere
+
+Inicio
+      escreva("Nome: ")
+      leia(nome)
+      escreva("Valor por hora: ")
+      leia(valorh)
+      escreva("Horas trabalhadas: ")
+      leia(horast)
+
+
+      soma <- valorh * horast
+
+      escreval("O pagamento para ", nome, " deve ser ", soma:4:2)
+
+
+
+
+
+Fimalgoritmo

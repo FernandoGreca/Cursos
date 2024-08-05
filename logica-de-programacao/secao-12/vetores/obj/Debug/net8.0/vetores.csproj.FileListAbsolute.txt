@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\Pastas\curso\logica-de-programacao\secao-12\vetores\bin\Debug\net8.0\vetores.exe
+C:\Users\Usuario\Desktop\Pastas\curso\logica-de-programacao\secao-12\vetores\bin\Debug\net8.0\vetores.deps.json
+C:\Users\Usuario\Desktop\Pastas\curso\logica-de-programacao\secao-12\vetores\bin\Debug\net8.0\vetores.runtimeconfig.json
+C:\Users\Usuario\Desktop\Pastas\curso\logica-de-programacao\secao-12\vetores\bin\Debug\net8.0\vetores.dll
+C:\Users\Usuario\Desktop\Pastas\curso\logica-de-programacao\secao-12\vetores\bin\Debug\net8.0\vetores.pdb
+C:\Users\Usuario\Desktop\Pastas\curso\logica-de-programacao\secao-12\vetores\obj\Debug\net8.0\vetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Pastas\curso\logica-de-programacao\secao-12\vetores\obj\Debug\net8.0\vetores.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Pastas\curso\logica-de-programacao\secao-12\vetores\obj\Debug\net8.0\vetores.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Pastas\curso\logica-de-programacao\secao-12\vetores\obj\Debug\net8.0\vetores.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Pastas\curso\logica-de-programacao\secao-12\vetores\obj\Debug\net8.0\vetores.dll
+C:\Users\Usuario\Desktop\Pastas\curso\logica-de-programacao\secao-12\vetores\obj\Debug\net8.0\refint\vetores.dll
+C:\Users\Usuario\Desktop\Pastas\curso\logica-de-programacao\secao-12\vetores\obj\Debug\net8.0\vetores.pdb
+C:\Users\Usuario\Desktop\Pastas\curso\logica-de-programacao\secao-12\vetores\obj\Debug\net8.0\vetores.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Pastas\curso\logica-de-programacao\secao-12\vetores\obj\Debug\net8.0\ref\vetores.dll

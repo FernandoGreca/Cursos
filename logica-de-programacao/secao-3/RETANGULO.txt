@@ -1,0 +1,24 @@
+Algoritmo "retangulo"
+
+
+Var
+   largura, comprimento, perimetro, area, diagonal : real
+
+Inicio
+      escreva("Digite a largura do terreno: ")
+      leia(largura)
+      escreva("Digite o comprimento do terreno: ")
+      leia(comprimento)
+
+      area <-  largura * comprimento
+      perimetro <- (largura * 2) + (comprimento * 2)
+      diagonal <- RaizQ(Exp(largura, 2) + Exp(comprimento, 2))
+
+      escreva("Area: ")
+      escreval(area:8:4)
+      escreva("Perimetro: ")
+      escreval(perimetro:8:4)
+      escreva("Diagonal: ")
+      escreval(diagonal:8:4)
+
+Fimalgoritmo

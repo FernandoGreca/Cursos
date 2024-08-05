@@ -1,0 +1,24 @@
+Algoritmo "senhafixa"
+
+Var
+    senha, tentativa : real
+
+
+Inicio
+      senha <- 2002
+      escreva("Digite a senha:")
+      leia(tentativa)
+      
+      enquanto tentativa <> senha faca
+               escreva("Senha Invalida! Tente novamente: ")
+               leia(tentativa)
+      fimenquanto
+      
+      se tentativa = senha entao
+         escreva("Acesso permitido!")
+      fimse
+
+
+
+
+Fimalgoritmo

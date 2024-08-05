@@ -1,0 +1,18 @@
+Algoritmo "tabuada"
+
+Var
+   i, resultado, tabuada : inteiro
+
+
+Inicio
+      escreva("Digite a tabuada que deseja ver: ")
+      leia(tabuada)
+      escreval
+
+      para i de 1 ate 10 faca
+           resultado <- tabuada * i
+           escreval(tabuada, " x ", i, " = ", resultado)
+      fimpara
+
+
+Fimalgoritmo

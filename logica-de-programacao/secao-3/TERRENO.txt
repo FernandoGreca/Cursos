@@ -1,0 +1,23 @@
+Algoritmo "terreno"
+
+
+Var
+   largura, comprimento, preco, area, precodarea : real
+
+Inicio
+      escreva("Digite a largura do terreno: ")
+      leia(largura)
+      escreva("Digite o comprimento do terreno: ")
+      leia(comprimento)
+      escreva("Digite valor do metro quadrado: ")
+      leia(preco)
+
+      area <-  largura * comprimento
+      precodarea <- area * preco
+
+      escreva("Area do terreno:")
+      escreval(area:8:2)
+      escreva("Preco do terreno: ")
+      escreval(precodarea:8:2)
+
+Fimalgoritmo

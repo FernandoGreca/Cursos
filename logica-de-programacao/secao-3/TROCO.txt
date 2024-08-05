@@ -1,0 +1,26 @@
+Algoritmo "troco"
+
+Var
+   x, soma, z, troco : real
+   y : inteiro
+
+
+Inicio
+      escreva("Preco unitario do produto: ")
+      leia(x)
+      escreva("Quantidade comprada: ")
+      leia(y)
+      escreva("Dinheiro Recebido: ")
+      leia(z)
+
+
+      soma <- x * y
+      troco <- z - soma
+
+      escreval("TROCO: ", troco:4:2)
+
+
+
+
+
+Fimalgoritmo

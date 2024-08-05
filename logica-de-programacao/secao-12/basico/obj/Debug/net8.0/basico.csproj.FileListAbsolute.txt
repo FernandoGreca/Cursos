@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\Pastas\curso\logica-de-programacao\secao-12\basico\bin\Debug\net8.0\basico.exe
+C:\Users\Usuario\Desktop\Pastas\curso\logica-de-programacao\secao-12\basico\bin\Debug\net8.0\basico.deps.json
+C:\Users\Usuario\Desktop\Pastas\curso\logica-de-programacao\secao-12\basico\bin\Debug\net8.0\basico.runtimeconfig.json
+C:\Users\Usuario\Desktop\Pastas\curso\logica-de-programacao\secao-12\basico\bin\Debug\net8.0\basico.dll
+C:\Users\Usuario\Desktop\Pastas\curso\logica-de-programacao\secao-12\basico\bin\Debug\net8.0\basico.pdb
+C:\Users\Usuario\Desktop\Pastas\curso\logica-de-programacao\secao-12\basico\obj\Debug\net8.0\basico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Pastas\curso\logica-de-programacao\secao-12\basico\obj\Debug\net8.0\basico.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Pastas\curso\logica-de-programacao\secao-12\basico\obj\Debug\net8.0\basico.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Pastas\curso\logica-de-programacao\secao-12\basico\obj\Debug\net8.0\basico.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Pastas\curso\logica-de-programacao\secao-12\basico\obj\Debug\net8.0\basico.dll
+C:\Users\Usuario\Desktop\Pastas\curso\logica-de-programacao\secao-12\basico\obj\Debug\net8.0\refint\basico.dll
+C:\Users\Usuario\Desktop\Pastas\curso\logica-de-programacao\secao-12\basico\obj\Debug\net8.0\basico.pdb
+C:\Users\Usuario\Desktop\Pastas\curso\logica-de-programacao\secao-12\basico\obj\Debug\net8.0\basico.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Pastas\curso\logica-de-programacao\secao-12\basico\obj\Debug\net8.0\ref\basico.dll

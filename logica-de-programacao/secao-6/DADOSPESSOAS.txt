@@ -1,0 +1,48 @@
+Algoritmo "dadospessoas"
+
+Var
+   n, homens, denominador, i : inteiro
+
+   menor, maior, media, soma : real
+
+   altura : vetor [0..9] de real
+   genero : vetor [0..9] de caractere
+Inicio
+   escreva("Quantas pessoas serao? ")
+   leia(n)
+
+   para i de 0 ate n-1 faca
+      escreva("Altura da ", i+1, "a pessoa: ")
+      leia(altura[i])
+      escreva("Genero da ", i+1, "a pessoa: ")
+      leia(genero[i])
+
+      se genero[i] = "f" entao
+         soma <- soma + altura[i]
+         denominador <- denominador + 1
+      senao
+         homens <- homens + 1
+      fimse
+   fimpara
+   
+   menor <- altura[0]
+   maior <- altura[0]
+   
+   para i de 0 ate n-1 faca
+      se altura[i] > maior entao
+         maior <- altura[i]
+      fimse
+
+      se altura[i] < menor entao
+         menor <- altura[i]
+      fimse
+   fimpara
+
+   media <- soma / denominador
+
+   escreval("Menor altura = ", menor)
+   escreval("Maior altura = ", maior)
+   escreval("Media das alturas das mulheres = ", media:4:2)
+   escreval("Numero de homens = ", homens)
+
+Fimalgoritmo

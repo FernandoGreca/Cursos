@@ -1,0 +1,14 @@
+Algoritmo "circulo"
+
+Var
+   x, area: real
+
+Inicio
+      escreva("Digite o valor do raio do circulo: ")
+      leia(x)
+
+      area <- Pi * Exp(x,2)
+
+      escreval("AREA: ", area:4:3)
+
+Fimalgoritmo

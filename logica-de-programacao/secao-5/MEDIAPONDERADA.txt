@@ -1,0 +1,30 @@
+Algoritmo "mediaponderada"
+
+Var
+   quantidade, i : inteiro
+   numero1, numero2, numero3, media : real
+
+
+
+Inicio
+
+   escreva("Quantos numeros voce vai querer digitar? ")
+   leia(quantidade)
+
+   para i de 1 até quantidade faca
+      escreval("Digite tres numeros: ")
+      leia(numero1)
+      leia(numero2)
+      leia(numero3)
+      
+      media <- ((numero1 * 2) + (numero2 * 3) + (numero3 * 5)) / 10
+      
+      escreval("MEDIA = ", media:2:1)
+      
+   fimpara
+
+
+
+
+
+Fimalgoritmo

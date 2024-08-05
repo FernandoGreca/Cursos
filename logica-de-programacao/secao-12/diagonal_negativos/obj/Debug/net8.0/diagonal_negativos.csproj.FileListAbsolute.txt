@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\Pastas\curso\logica-de-programacao\secao-12\diagonal_negativos\obj\Debug\net8.0\diagonal_negativos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Pastas\curso\logica-de-programacao\secao-12\diagonal_negativos\obj\Debug\net8.0\diagonal_negativos.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Pastas\curso\logica-de-programacao\secao-12\diagonal_negativos\obj\Debug\net8.0\diagonal_negativos.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Pastas\curso\logica-de-programacao\secao-12\diagonal_negativos\obj\Debug\net8.0\diagonal_negativos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Pastas\curso\logica-de-programacao\secao-12\diagonal_negativos\bin\Debug\net8.0\diagonal_negativos.exe
+C:\Users\Usuario\Desktop\Pastas\curso\logica-de-programacao\secao-12\diagonal_negativos\bin\Debug\net8.0\diagonal_negativos.deps.json
+C:\Users\Usuario\Desktop\Pastas\curso\logica-de-programacao\secao-12\diagonal_negativos\bin\Debug\net8.0\diagonal_negativos.runtimeconfig.json
+C:\Users\Usuario\Desktop\Pastas\curso\logica-de-programacao\secao-12\diagonal_negativos\bin\Debug\net8.0\diagonal_negativos.dll
+C:\Users\Usuario\Desktop\Pastas\curso\logica-de-programacao\secao-12\diagonal_negativos\bin\Debug\net8.0\diagonal_negativos.pdb
+C:\Users\Usuario\Desktop\Pastas\curso\logica-de-programacao\secao-12\diagonal_negativos\obj\Debug\net8.0\diagonal_negativos.dll
+C:\Users\Usuario\Desktop\Pastas\curso\logica-de-programacao\secao-12\diagonal_negativos\obj\Debug\net8.0\refint\diagonal_negativos.dll
+C:\Users\Usuario\Desktop\Pastas\curso\logica-de-programacao\secao-12\diagonal_negativos\obj\Debug\net8.0\diagonal_negativos.pdb
+C:\Users\Usuario\Desktop\Pastas\curso\logica-de-programacao\secao-12\diagonal_negativos\obj\Debug\net8.0\diagonal_negativos.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Pastas\curso\logica-de-programacao\secao-12\diagonal_negativos\obj\Debug\net8.0\ref\diagonal_negativos.dll
