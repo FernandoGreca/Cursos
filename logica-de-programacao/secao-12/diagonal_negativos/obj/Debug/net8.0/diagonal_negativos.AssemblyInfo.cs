@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("diagonal_negativos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+faa4679074a6d9d1ddabe96c4d5f25973424f5df")]
 [assembly: System.Reflection.AssemblyProductAttribute("diagonal_negativos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("diagonal_negativos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

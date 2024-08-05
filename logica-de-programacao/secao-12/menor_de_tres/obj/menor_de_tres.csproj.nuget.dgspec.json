@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\Desktop\\Pastas\\curso\\logica-de-programacao\\secao-12\\menor_de_tres\\menor_de_tres.csproj": {}
+    "C:\\Users\\Usuario\\Desktop\\repositorio-local-github\\Cursos\\logica-de-programacao\\secao-12\\menor_de_tres\\menor_de_tres.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\Desktop\\Pastas\\curso\\logica-de-programacao\\secao-12\\menor_de_tres\\menor_de_tres.csproj": {
+    "C:\\Users\\Usuario\\Desktop\\repositorio-local-github\\Cursos\\logica-de-programacao\\secao-12\\menor_de_tres\\menor_de_tres.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\Pastas\\curso\\logica-de-programacao\\secao-12\\menor_de_tres\\menor_de_tres.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\repositorio-local-github\\Cursos\\logica-de-programacao\\secao-12\\menor_de_tres\\menor_de_tres.csproj",
         "projectName": "menor_de_tres",
-        "projectPath": "C:\\Users\\Usuario\\Desktop\\Pastas\\curso\\logica-de-programacao\\secao-12\\menor_de_tres\\menor_de_tres.csproj",
+        "projectPath": "C:\\Users\\Usuario\\Desktop\\repositorio-local-github\\Cursos\\logica-de-programacao\\secao-12\\menor_de_tres\\menor_de_tres.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Desktop\\Pastas\\curso\\logica-de-programacao\\secao-12\\menor_de_tres\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\Desktop\\repositorio-local-github\\Cursos\\logica-de-programacao\\secao-12\\menor_de_tres\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\Desktop\\Pastas\\curso\\logica-de-programacao\\secao-12\\diagonal_negativos\\diagonal_negativos.csproj": {}
+    "C:\\Users\\Usuario\\Desktop\\repositorio-local-github\\Cursos\\logica-de-programacao\\secao-12\\diagonal_negativos\\diagonal_negativos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\Desktop\\Pastas\\curso\\logica-de-programacao\\secao-12\\diagonal_negativos\\diagonal_negativos.csproj": {
+    "C:\\Users\\Usuario\\Desktop\\repositorio-local-github\\Cursos\\logica-de-programacao\\secao-12\\diagonal_negativos\\diagonal_negativos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\Pastas\\curso\\logica-de-programacao\\secao-12\\diagonal_negativos\\diagonal_negativos.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\repositorio-local-github\\Cursos\\logica-de-programacao\\secao-12\\diagonal_negativos\\diagonal_negativos.csproj",
         "projectName": "diagonal_negativos",
-        "projectPath": "C:\\Users\\Usuario\\Desktop\\Pastas\\curso\\logica-de-programacao\\secao-12\\diagonal_negativos\\diagonal_negativos.csproj",
+        "projectPath": "C:\\Users\\Usuario\\Desktop\\repositorio-local-github\\Cursos\\logica-de-programacao\\secao-12\\diagonal_negativos\\diagonal_negativos.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Desktop\\Pastas\\curso\\logica-de-programacao\\secao-12\\diagonal_negativos\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\Desktop\\repositorio-local-github\\Cursos\\logica-de-programacao\\secao-12\\diagonal_negativos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"

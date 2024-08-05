@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\Pastas\\curso\\logica-de-programacao\\secao-12\\matrizes\\matrizes.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\repositorio-local-github\\Cursos\\logica-de-programacao\\secao-12\\matrizes\\matrizes.csproj",
       "projectName": "matrizes",
-      "projectPath": "C:\\Users\\Usuario\\Desktop\\Pastas\\curso\\logica-de-programacao\\secao-12\\matrizes\\matrizes.csproj",
+      "projectPath": "C:\\Users\\Usuario\\Desktop\\repositorio-local-github\\Cursos\\logica-de-programacao\\secao-12\\matrizes\\matrizes.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\Desktop\\Pastas\\curso\\logica-de-programacao\\secao-12\\matrizes\\obj\\",
+      "outputPath": "C:\\Users\\Usuario\\Desktop\\repositorio-local-github\\Cursos\\logica-de-programacao\\secao-12\\matrizes\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"

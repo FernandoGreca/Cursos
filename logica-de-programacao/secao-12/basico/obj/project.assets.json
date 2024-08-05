@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\Pastas\\curso\\logica-de-programacao\\secao-12\\basico\\basico.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\repositorio-local-github\\Cursos\\logica-de-programacao\\secao-12\\basico\\basico.csproj",
       "projectName": "basico",
-      "projectPath": "C:\\Users\\Usuario\\Desktop\\Pastas\\curso\\logica-de-programacao\\secao-12\\basico\\basico.csproj",
+      "projectPath": "C:\\Users\\Usuario\\Desktop\\repositorio-local-github\\Cursos\\logica-de-programacao\\secao-12\\basico\\basico.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\Desktop\\Pastas\\curso\\logica-de-programacao\\secao-12\\basico\\obj\\",
+      "outputPath": "C:\\Users\\Usuario\\Desktop\\repositorio-local-github\\Cursos\\logica-de-programacao\\secao-12\\basico\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"

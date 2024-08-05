@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\Pastas\\curso\\logica-de-programacao\\secao-12\\vetores\\vetores.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\repositorio-local-github\\Cursos\\logica-de-programacao\\secao-12\\vetores\\vetores.csproj",
       "projectName": "vetores",
-      "projectPath": "C:\\Users\\Usuario\\Desktop\\Pastas\\curso\\logica-de-programacao\\secao-12\\vetores\\vetores.csproj",
+      "projectPath": "C:\\Users\\Usuario\\Desktop\\repositorio-local-github\\Cursos\\logica-de-programacao\\secao-12\\vetores\\vetores.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\Desktop\\Pastas\\curso\\logica-de-programacao\\secao-12\\vetores\\obj\\",
+      "outputPath": "C:\\Users\\Usuario\\Desktop\\repositorio-local-github\\Cursos\\logica-de-programacao\\secao-12\\vetores\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"
