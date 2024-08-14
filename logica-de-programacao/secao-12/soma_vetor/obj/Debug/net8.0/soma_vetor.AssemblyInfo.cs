@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("soma_vetor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff264fcabf010a85f19f6247399e710df756b733")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ac0f0a62dd926cb8051dbd8f4542460fff9f2f7e")]
 [assembly: System.Reflection.AssemblyProductAttribute("soma_vetor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("soma_vetor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
