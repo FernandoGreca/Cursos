@@ -1,18 +1,15 @@
 package model.entitites;
 
 import java.text.SimpleDateFormat;
-import java.time.Duration;
-import java.time.LocalDateTime;
 import java.util.Date;
 import java.util.concurrent.TimeUnit;
 
 public class Reservation {
-
-    SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yyyy");
-
     private Integer roomNumber;
     private Date checkIn;
     private Date checkOut;
+
+    private static SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yyyy");
 
     public Reservation(){
     }
@@ -54,6 +51,6 @@ public class Reservation {
 
     @Override
     public String toString() {
-        return "Room" + roomNumber + ", Check In: " + sdf.format(checkIn) + ", Check Out";
+        return "Room" + roomNumber + ", Check-In: " + sdf.format(checkIn) + ", Check-Out: " + sdf.format(checkOut) + ", " + duration() + " nights";
     }
 }
