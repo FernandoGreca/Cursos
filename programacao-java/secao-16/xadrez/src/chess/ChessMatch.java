@@ -119,7 +119,7 @@ public class ChessMatch {
             throw new IllegalStateException("There is no piece to be promoted");
         }
         if (!type.equalsIgnoreCase("B") && !type.equalsIgnoreCase("N") && !type.equalsIgnoreCase("R") && !type.equalsIgnoreCase("Q")) {
-            throw new ChessException("Invalid type for promotio");
+            return promoted;
         }
 
         Position pos = promoted.getChessPosition().toPosition();
