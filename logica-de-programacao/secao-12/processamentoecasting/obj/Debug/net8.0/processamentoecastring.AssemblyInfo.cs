@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("processamentoecastring")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bda70d25f994955a301422e2901b4ac63ba56a37")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4040e534135b43eadda45d083fbd856fb8abbae2")]
 [assembly: System.Reflection.AssemblyProductAttribute("processamentoecastring")]
 [assembly: System.Reflection.AssemblyTitleAttribute("processamentoecastring")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
