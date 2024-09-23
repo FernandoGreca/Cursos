@@ -2,15 +2,21 @@ package com.fernandocurso.aulajpamaven.aplicacao;
 
 import com.fernandocurso.aulajpamaven.dominio.Pessoa;
 
+import jakarta.persistence.EntityManager;
+import jakarta.persistence.EntityManagerFactory;
+import jakarta.persistence.Persistence;
+
 public class Program {
     public static void main(String[] args) {
-        
-        Pessoa p1 = new Pessoa(1, "Carlos da Silva", "carlos@gmail.com");
-        Pessoa p2 = new Pessoa(2, "Joaquim Torres", "joaquim@gmail.com");
-        Pessoa p3 = new Pessoa(3, "Ana Maria", "ana@gmail.com");
+        EntityManagerFactory emf = Persistence.createEntityManagerFactory("exemplo-jpa");
+        EntityManager em = emf.createEntityManager();
 
-        System.out.println(p1);
-        System.out.println(p2);
-        System.out.println(p3);
+        em.getTransaction().begin();
+        em.remove(em.find(Pessoa.class, 2));
+        em.getTransaction().commit();
+        
+        System.out.println("Pronto!");
+        em.close();
+        emf.close();
     }
 }
