@@ -2,6 +2,7 @@
 import './style.css';
 import { useState } from 'react';
 import { FiSearch } from 'react-icons/fi';
+import Cleave from 'cleave.js/react';
 
 import api from '../../services/api';
 
@@ -27,16 +28,23 @@ export default function App() {
         }
     }
 
+    const cleaveOptions = {
+        delimiters: ['-'],
+        blocks: [5, 3],
+        numericOnly: true,
+    };
+
     return (
         <div className='container'>
             <h1 className='title'>Buscador Cep</h1>
 
             <div className='container-input'>
-                <input
-                    type='text'
+                <Cleave
+                    className='cep-input'
                     placeholder='Digite seu cep...'
                     value={input}
                     onChange={(e) => setInput(e.target.value)}
+                    options={cleaveOptions}
                     maxLength={9} />
 
                 <button className='button-search' onClick={handleSearch}>
