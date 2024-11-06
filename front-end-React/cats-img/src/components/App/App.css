@@ -1,0 +1,60 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: #424242;
+  height: 100vh;
+  width: 100vw;
+
+  h4 {
+    margin-bottom: 10px;
+  }
+
+  button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .img-gato {
+    border-radius: 20px;
+    width: 500px;
+    height: 500px;
+  }
+
+  .btn-procura-gato {
+    padding: 15px;
+    margin-top: 10px;
+    border-radius: 10px;
+    border: none;
+    background-color: #00796B;
+    color: #FFF;
+    font-size: 48px;
+    cursor: pointer;
+    transition: background-color .3s;
+
+    &:hover {
+      background-color: #004D40;
+    }
+  }
+
+  .texto-claro {
+    color: white;
+
+    span {
+      color: #00796B;
+    }
+  }
+}
+
+@media(max-width: 720px) {
+  .container {
+    .img-gato {
+      width: 80%;
+    }
+    .btn-procura-gato {
+      width: 80%;
+    }
+  }
+}
