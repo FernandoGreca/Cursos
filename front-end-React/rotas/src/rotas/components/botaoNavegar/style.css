@@ -1,0 +1,18 @@
+.botaoNavegar {
+    border: 0;
+    padding: 5px;
+    border-radius: 5px;
+    background-color: #d6ccb3;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.3);
+    transition: background-color, box-shadow .3s ease;
+
+    &:hover {
+        background-color: #c0b8a4;
+        box-shadow: 0px 8px 12px rgba(0, 0, 0, 0.4);
+    }
+
+    .linkNavegar{
+        color: white;
+        text-decoration: none;
+    }
+}

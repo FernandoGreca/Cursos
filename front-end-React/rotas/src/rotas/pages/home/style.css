@@ -1,0 +1,29 @@
+.container {
+    .row {
+        .txt-topo{
+            padding: 0 0 5px 5px;
+
+            p {
+                text-align: justify;
+            }
+
+            .botaoNavegar {
+                max-width: 300px;
+            }
+        }
+        .img-topo {
+            img {
+                width: 100%;
+                border-radius: 10px;
+            }
+        }
+    }
+}
+
+@media(max-width: 575px) {
+    .container{
+        .row {
+            margin: 0 2%;
+        }
+    }
+}

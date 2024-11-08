@@ -1,0 +1,22 @@
+.navbar {
+    background-color: #D8CEB4;
+    
+    .container-fluid {
+        img {
+            width: 80px;
+        }
+        .collapse {
+            .navbar-nav {
+                .nav-item{
+                    a {
+                        color: #FAFAFA;
+                        transition: color .3s ease;
+                        &:hover {
+                            color: #BDBDBD;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
